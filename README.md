@@ -29,4 +29,6 @@ Pose Estimation은 동일한 영상에 AR 도형을 붙여넣어 Chessboard가 �
 
 #### 	Pose Estimation
 
-​	![poster](./po_est_screen.png)
+- 실행 화면
+
+  ![poster](./po_est_screen.png)
